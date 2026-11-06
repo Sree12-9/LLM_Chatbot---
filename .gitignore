@@ -1,0 +1,7 @@
+venv/
+Users/
+qwen_chatbot_finetuned/
+__pycache__/
+*.py[cod]
+.env
+.venv/
